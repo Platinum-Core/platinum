@@ -8,6 +8,10 @@ platinum (PLAT) is a sustainable cryptocurrency  It is a decentralized, peer-to-
 
 Please reach out at dashpnew@gmail.com
 
+discord  https://discord.gg/ssT9QUn
+
+telegram https://t.me/Platinum_Plat
+
 ##  Coin Specs 
 ------------------------------------------------------
 | Block Time                     | 180 Seconds       |
